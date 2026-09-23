@@ -1,0 +1,3 @@
+# simulation build output
+*.out
+*.vcd
